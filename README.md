@@ -4,5 +4,7 @@ Next project will be adding front end with react.
 I could have had more paths but I am a busy woman and didn't have time to make extra... except the  .patch path. Gave some extra love to that and I am quite proud.
 The given grade depends on the score and the score is set to be random. Also the time is current timestamp. 
 
+Maybe in future do something about the delete route. So Postman prosesses correctly.
+
 I used MongoDBs default database "Restaurants" in this app.
 Remind me to switch my password after this project is graded.
